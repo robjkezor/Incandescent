@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mikhail/gitdir/Incandescent/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/incandescent.dir/src/main.cpp.o -c /home/mikhail/gitdir/Incandescent/src/main.cpp",
+  "file": "/home/mikhail/gitdir/Incandescent/src/main.cpp"
+}
+]

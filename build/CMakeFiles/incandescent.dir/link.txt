@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/incandescent.dir/src/main.cpp.o -o incandescent 

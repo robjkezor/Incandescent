@@ -1,0 +1,3 @@
+/home/mikhail/gitdir/Incandescent/build/CMakeFiles/incandescent.dir
+/home/mikhail/gitdir/Incandescent/build/CMakeFiles/edit_cache.dir
+/home/mikhail/gitdir/Incandescent/build/CMakeFiles/rebuild_cache.dir
